@@ -1,0 +1,3 @@
+﻿Pictograms have been added to this typeface to be used in spaces where there is a lot of people traffic such as airports, subways and other similar places.
+To use these pictograms if you do not have a glyph panel, they are translated into Unicode language. There is also a website with a gallery with all the pictograms. ;)
+https://carlospmerchan.github.io/galeria_pictogramas_aeropuerto__A_S_barajas/
